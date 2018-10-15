@@ -11,7 +11,7 @@ function johnLennonFacts(facts){
   var output = ""
   var exclamation = "!!!"
   var i = 0
-  while i < facts.length{
+  while (i < facts.length){
     output = facts[i].concat(exclamation);
     i ++;
   }
