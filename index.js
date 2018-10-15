@@ -17,5 +17,5 @@ function johnLennonFacts(facts){
     array_answer.push(output);
     i ++;
   }
-  return output;
+  return array_answer;
 }
