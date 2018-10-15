@@ -6,3 +6,14 @@ function theBeatlesPlay(arrayMusicians, arrayInstruments){
   }
   return musiciansPlusInstruments
 }
+
+function johnLennonFacts(facts){
+  var output = ""
+  var exclamation = "!!!"
+  var i = 0
+  while i < facts.length{
+    output = facts[i].concat(exclamation);
+    i ++;
+  }
+  return output;
+}
